@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
+      <link href="./lib/css/style.css" rel="stylesheet">
     <meta charset="utf-8">
-    <title></title>
+    <title>Hello World</title>
   </head>
+
   <body>
-    <h1>Hello team</h>
+<h1>This is the Main Page.</h1>
+
+<a href = "dept.php">This is Our Data Page</a>
   </body>
 </html>
